@@ -1,0 +1,12 @@
+.chart {
+  text-align: center;
+  margin: 40px;
+}
+.chart:hover {
+  background: #fbf6ba;
+}
+.temperature {
+  font-size: 48px;
+  font-weight: bold;
+  text-align: center;
+}
